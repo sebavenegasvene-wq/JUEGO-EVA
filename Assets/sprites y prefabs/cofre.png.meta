@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c140b6dddd2c5444086fe38a85b29e4d
+guid: 0dc21798e050b6243a115906da9ac1c8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4571828015118065507
-    second: back_0
+      213: -8359929200229367975
+    second: cofre_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: back_0
+      name: cofre_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 735
-        height: 414
+        width: 165
+        height: 135
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9065b094aa9d80c0800000000000000
-      internalID: -4571828015118065507
+      spriteID: 95fb9e86fa09bfb80800000000000000
+      internalID: -8359929200229367975
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      back_0: -4571828015118065507
+      cofre_0: -8359929200229367975
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

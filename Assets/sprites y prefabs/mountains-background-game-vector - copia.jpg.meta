@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1e918b5f671d48040bd875c766b5076e
+guid: c62f1fa9b40ee0345ab8b5fa5fc2fb61
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2848482759956325260
-    second: Unn_bench_0
+      213: 2112824975309026755
+    second: mountains-background-game-vector - copia_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Unn_bench_0
+      name: mountains-background-game-vector - copia_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 270
-        height: 91
+        width: 141
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47c9aff85082878d0800000000000000
-      internalID: -2848482759956325260
+      spriteID: 3c53eddee13425d10800000000000000
+      internalID: 2112824975309026755
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Unn_bench_0: -2848482759956325260
+      mountains-background-game-vector - copia_0: 2112824975309026755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
